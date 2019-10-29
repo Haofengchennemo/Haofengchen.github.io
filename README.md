@@ -22,7 +22,7 @@
     <img src="跑路大业/科技/Gen 6.PNG" width="167" height="200" alt=""/>
 	<br><h4 style="font-family:verdana;">Robotic suits generation 1 through 6.</h4>
 	<br>
-    <img src="跑路大业/Robotic arms 1 to 4.JPG" width="281" height="130" alt=""/>
+    <img src="跑路大业/科技/Robotic arms 1 to 4.JPG" width="281" height="130" alt=""/>
 	<h4 style="font-family:verdana;">Robotic arms generation 1 through 4.</h4>
 	<br>
     <img src="跑路大业/艺术/凤冠/IMG_1997.PNG" width="225" height="150" alt=""/>
@@ -34,7 +34,7 @@
     <img src="跑路大业/艺术/绘画/IMG_2616.JPG" width="109" height="150" alt=""/>
 	<img src="跑路大业/艺术/绘画/IMG_2858.JPG" width="194" height="150" alt=""/>
     <img src="跑路大业/艺术/绘画/IMG_2628.JPG" width="153" height="150" alt=""/>
-    <img src="跑路大业/IMG_0055.PNG" width="200" height="150" alt=""/>
+    <img src="跑路大业/艺术/IMG_0055.PNG" width="200" height="150" alt=""/>
     <img src="跑路大业/艺术/绘画/IMG_0038.PNG" width="117" height="150" alt=""/>
     <img src="跑路大业/艺术/绘画/IMG_0300.JPG" width="115" height="150" alt=""/>
 	<br>
@@ -107,7 +107,7 @@
 <img src="跑路大业/科技/第三代/Assembly 2.PNG" width="96" height="130" alt=""/>
 <img src="跑路大业/科技/第三代/Assembly 3.PNG" width="96" height="130" alt=""/>
 <h5 style="font-family:verdana;">The 3rd generation sitting on my bed</h5>
-<img src="跑路大业/IMG_0057.PNG" width="534" height="400" alt=""/>
+<img src="跑路大业/科技/IMG_0057.PNG" width="534" height="400" alt=""/>
 	<br>
 	<br>
 	<br>
@@ -196,7 +196,7 @@
 <p>(Jack was really interested in my suit during the building process, so I asked him if he wanted to be the first one trying on the finished product.)</p>
 <img src="跑路大业/科技/第五代/Whole suit test 2.JPG" width="300" height="400" alt=""/>
 <br><p>I tried the suit on and presented in front of the whole school. I think that suit looks better when Jack wears it...  </p>
-<img src="跑路大业/IMG_0060.JPG" width="433" height="600" alt=""/>
+<img src="跑路大业/科技/IMG_0060.JPG" width="433" height="600" alt=""/>
 <br>
 <br>
 <br>
@@ -228,7 +228,7 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <img src="跑路大业/科技/第六代/Model 3.JPG" width="227" height="400" alt=""/>
 <img src="跑路大业/科技/第六代/Model 4.PNG" width="294" height="400" alt=""/>
 <p>(This design will highly increase the speed of getting in the suit)</p>
-<img src="跑路大业/IMG_0063.JPG" width="290" height="400" alt=""/>
+<img src="跑路大业/科技/IMG_0063.JPG" width="290" height="400" alt=""/>
 <br><h4 style="font-family:verdana;">CAD drawings</h4>
 <img src="跑路大业/科技/第六代/设计/IMG_0027.PNG" width="150" height="200" alt=""/>
 <img src="跑路大业/科技/第六代/设计/IMG_0025.PNG" width="267" height="200" alt=""/>
@@ -256,15 +256,15 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <p>(Inlaying feathers)</p>
 <img src="跑路大业/艺术/凤冠/IMG_2946.JPG" width="261" height="200" alt=""/>
 <p>(Making a structure out of bamboo)</p>
-<img src="跑路大业/002.png" width="403" height="300" alt=""/>
-<img src="跑路大业/001.png" width="403" height="300" alt=""/>
+<img src="跑路大业/艺术/002.png" width="403" height="300" alt=""/>
+<img src="跑路大业/艺术/001.png" width="403" height="300" alt=""/>
 <p>(Working with rubies, sapphires, and pearls)</p>
 <img src="跑路大业/003.png" width="282" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_0078.JPG" width="108" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_0079.JPG" width="108" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_2942.JPG" width="261" height="200" alt=""/>
 <p>(Putting everything together)</p>
-<img src="跑路大业/IMG_1956.JPG" width="700" height="700" alt=""/>
+<img src="跑路大业/艺术/IMG_1956.JPG" width="700" height="700" alt=""/>
 <p>A picture taken by my friend John Rong:</p>
 <img src="跑路大业/艺术/凤冠/IMG_1997.PNG" width="700" height="470" alt=""/>
 <hr/>
