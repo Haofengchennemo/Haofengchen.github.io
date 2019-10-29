@@ -19,7 +19,7 @@
     <img src="跑路大业/科技/第三代/Assembly 4.PNG" width="154" height="200" alt=""/>
     <img src="跑路大业/科技/第四代/Testing 3.JPG" width="147" height="200" alt=""/>
     <img src="跑路大业/科技/第五代/Details 2.JPG" width="171" height="200" alt=""/>
-    <img src="跑路大业/Gen 6.PNG" width="167" height="200" alt=""/>
+    <img src="跑路大业/科技/Gen 6.PNG" width="167" height="200" alt=""/>
 	<br><h4 style="font-family:verdana;">Robotic suits generation 1 through 6.</h4>
 	<br>
     <img src="跑路大业/Robotic arms 1 to 4.JPG" width="281" height="130" alt=""/>
