@@ -26,7 +26,7 @@
 	<h4 style="font-family:verdana;">Robotic arms generation 1 through 4.</h4>
 	<br>
     <img src="跑路大业/艺术/凤冠/IMG_1997.PNG" width="225" height="150" alt=""/>
-	<img src="跑路大业/修复.png" width="210" height="150" alt=""/>
+	<img src="跑路大业/艺术/修复.png" width="210" height="150" alt=""/>
     <img src="跑路大业/艺术/点翠/IMG_2863.PNG" width="214" height="150" alt=""/>
 	<img src="跑路大业/艺术/点翠/IMG_2862.PNG" width="139" height="150" alt=""/>
     <h4 style="font-family:verdana;">Ming dynasty empress crown replica (1600)，antique jewelry repair, jewelry design.</h4>
@@ -148,7 +148,6 @@
 	<br><br>Modifications on the frame can be organized into two efforts: allowing the suit to completely open from the back and enabling more movements that the suit can perform. For the suit to open from the back, one modification was on the part that connects the body frame to legs. For all previous generations I placed it at the back for unknown reasons. Just switching the position of that part, I was able to increase the integrity of the entire front of the suit. Another modification was on the shoulders. For previous generations, arms were mounted with two plates that attached both front and back of the body frame. By attaching arms only to the front, I not only made it easy to put on, but also enabled a new movement at shoulders. All other modifications on the frame for quicker suit up were based on the fourth generation suit. New designs for the armor were also influenced by the making of generation 4. I replaced balsa wood frames with machine cut aluminum frame to reduce manufacturing time, changed the resin plus fiberglass combination to fiberglass tape since there are no longer any curved surfaces, increased layers of KEVLAR for better protection, and abandoned the use of plastic on the surface because it was heavy and didn’t really do anything. Every armor plates on that suit was connected to the frame by strong Velcro to increase modularity. When an armor plate is damaged, it can be quickly replaced. I was at a peak in terms of the enthusiasm for designing. I thought I was on the right path and was ready for another explosion of ideas. Unfortunately, I had to stop those projects.
 </p>
 <h5 style="font-family:verdana;">Designing the 5th Generation</h5>
-	<img src="跑路大业/科技/第五代/Notebook 1.PNG" width="164" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 2.PNG" width="164" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 3.PNG" width="164" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 4.PNG" width="164" height="130" alt=""/>
@@ -158,7 +157,6 @@
 <img src="跑路大业/科技/第五代/Notebook 8.PNG" width="164" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 11.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 12.JPG" width="163" height="130" alt=""/>
-<img src="跑路大业/科技/第五代/Notebook 13.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/Notebook 14.JPG" width="163" height="130" alt=""/>
 <br><img src="跑路大业/科技/第五代/CAD leg.PNG" width="164" height="130" alt=""/>
 <img src="跑路大业/科技/第五代/CAD whole suit with hand.PNG" width="92" height="130" alt=""/>
@@ -218,8 +216,8 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <img src="跑路大业/科技/第六代/Notebook 3.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第六代/Notebook 4.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第六代/Notebook 5.JPG" width="163" height="130" alt=""/>
-<img src="跑路大业/科技/第六代/Notebook 6.JPG" width="163" height="130" alt=""/>
 <br>
+<img src="跑路大业/科技/第六代/Notebook 6.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第六代/Notebook 7.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第六代/Notebook 8.JPG" width="163" height="130" alt=""/>
 <img src="跑路大业/科技/第六代/Notebook 9.JPG" width="163" height="130" alt=""/>
@@ -250,8 +248,8 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <p>(Parts made out of brass)</p>
 <img src="跑路大业/艺术/凤冠/IMG_2191.JPG" width="261" height="200" alt=""/>
 <p>(Adding twisted brass wire edgings)</p>
-<img src="跑路大业/艺术/凤冠/IMG_2800.JPG" width="261" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_2820.JPG" width="360" height="300" alt=""/>
+<img src="跑路大业/艺术/凤冠/IMG_2800.JPG" width="261" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_2886.JPG" width="484" height="300" alt=""/>
 <p>(Inlaying feathers)</p>
 <img src="跑路大业/艺术/凤冠/IMG_2946.JPG" width="261" height="200" alt=""/>
@@ -259,7 +257,7 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <img src="跑路大业/艺术/002.png" width="403" height="300" alt=""/>
 <img src="跑路大业/艺术/001.png" width="403" height="300" alt=""/>
 <p>(Working with rubies, sapphires, and pearls)</p>
-<img src="跑路大业/003.png" width="282" height="200" alt=""/>
+<img src="跑路大业/艺术/003.png" width="282" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_0078.JPG" width="108" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_0079.JPG" width="108" height="200" alt=""/>
 <img src="跑路大业/艺术/凤冠/IMG_2942.JPG" width="261" height="200" alt=""/>
@@ -273,7 +271,7 @@ Now I finally get some time to keeping making robotic suits, but who knows how m
 <br>
 <h1 style="font-family:verdana;">Thank you for visiting this website. </h1>
 <p style="font-family:verdana;">This is the first wesite I made using HTML:)</p>
-<p style="font-family:verdana;">I like this more than templates.</p>
+
 <br/>
 </body>
 
